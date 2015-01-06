@@ -6,7 +6,8 @@
 #include <iostream>
 using namespace std;
 int _tmain(int argc, _TCHAR* argv[])
-{ddddd
+{sdfsdfsdf
+    //i cant figure it out
 	cin.get();
 	return 0;
 }
