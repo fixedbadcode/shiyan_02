@@ -7,7 +7,7 @@
 using namespace std;
 int _tmain(int argc, _TCHAR* argv[])
 {  
-	
+	asdfsdafasdfsadf
     //i cant figure it out
 	cin.get();
 	return 0;
