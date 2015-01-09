@@ -7,7 +7,8 @@
 using namespace std;
 int _tmain(int argc, _TCHAR* argv[])
 {  
-	asdfsdafasdfsadf
+	sjdkfajkinjkkefl,sdfmm
+		sadfasdfasfsadf
     //i cant figure it out
 	cin.get();
 	return 0;
